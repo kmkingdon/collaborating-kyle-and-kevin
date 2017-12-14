@@ -18,6 +18,8 @@ You should edit an HTML file. Add a recipe that you like using lists.
 ### Task 6: Kevin
 You should create a new CSS file. Link to it from one of your HTML files.
 
+### Task 7: Kyle
+You should create a new HTML file. Link to it from index.html
 
 ### Task 8: Kevin
 You should edit an HTML file. Add a paragraph about something you like.

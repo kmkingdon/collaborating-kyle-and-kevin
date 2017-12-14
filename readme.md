@@ -14,3 +14,7 @@ You should create an array of numbers in a Javascript file, if there isn't one. 
 
 ### Task 5: Kyle
 You should edit an HTML file. Add a recipe that you like using lists.
+
+### Task 6: Kevin
+You should create a new CSS file. Link to it from one of your HTML files.
+

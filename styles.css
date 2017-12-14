@@ -4,12 +4,13 @@ header {
   grid-gap: 10px;
   align-items: end;
   border-bottom: .3rem solid darkgrey;
+  background-color: black;
 }
 
 h1 {
   grid-column: 1/span 2;
   margin-left: 1rem;
-  color: orange;
+  color: red;
 }
 
 nav {
@@ -20,4 +21,17 @@ nav a {
   text-decoration: none;
   color: darkgrey;
   font-size:
+}
+
+p {
+  font-size: 2rem;
+}
+
+ul {
+  width: 60%;
+  height: 100%;
+}
+
+li {
+  font-size: 1rem;
 }

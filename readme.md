@@ -24,7 +24,9 @@ You should create a new HTML file. Link to it from index.html
 ### Task 8: Kevin
 You should edit an HTML file. Add a paragraph about something you like.
 
-
+### Task 9: Kyle
+You should edit an HTML file. Add a paragraph about something you like.
 
 ### Task 10: Kevin
 You should edit five CSS properties.
+
